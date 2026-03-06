@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chilindri</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Chilindri</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 06 Mar 2026 14:27:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Articulo</title>
+      <link>https://example.org/posts/mi-primer-articulo/</link>
+      <pubDate>Fri, 06 Mar 2026 14:27:00 +0000</pubDate>
+      <guid>https://example.org/posts/mi-primer-articulo/</guid>
+      <description>&lt;h1 id=&#34;hola&#34;&gt;Hola&lt;/h1&gt;&#xA;&lt;h3 id=&#34;título&#34;&gt;Título&lt;/h3&gt;&#xA;&lt;p&gt;mi primer artículo en marcha.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
