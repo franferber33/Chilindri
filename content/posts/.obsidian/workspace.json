@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe4b9b7989feea3",
+        "id": "95c52560be0848ea",
         "type": "tabs",
         "children": [
           {
-            "id": "900295054ca9baf9",
+            "id": "c32f6e2f53c68e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
+            }
+          },
+          {
+            "id": "20938e2938fd3dad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -164,6 +174,16 @@
               "icon": "lucide-list",
               "title": "Esquema de mi-primer-articulo"
             }
+          },
+          {
+            "id": "898a4e656efc44ee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -180,9 +200,31 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "900295054ca9baf9",
-  "lastOpenFiles": []
+  "active": "c32f6e2f53c68e8d",
+  "lastOpenFiles": [
+    "Desde la tená/index.md",
+    "Desde la tená/puerta_tena.jpg",
+    "plantillas/plantilla post.md",
+    "mi-primer-articulo.md",
+    "Desde la tená/Documento sin título",
+    "navidad/index.md",
+    "Desde la tená/navidad/pastor.jpg",
+    "Desde la tená/navidad/index.md",
+    "Desde la tená/navidad",
+    "Desde la tená",
+    "Carpeta sin título",
+    "navidad/pastor.jpg",
+    "navidad",
+    "plantillas/plantilla post con imágenes.md",
+    "plantillas/Sin título.md",
+    "Untitled.md",
+    "plantillas/Untitled.md",
+    "plantillas"
+  ]
 }
