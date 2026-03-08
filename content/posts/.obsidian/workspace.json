@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mi-primer-articulo.md",
+                "file": "La lluvia y sus cosas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mi-primer-articulo"
+              "title": "La lluvia y sus cosas"
             }
           }
         ]
@@ -211,7 +211,7 @@
     "Desde la tená/index.md",
     "Desde la tená/puerta_tena.jpg",
     "plantillas/plantilla post.md",
-    "mi-primer-articulo.md",
+    "La lluvia y sus cosas.md",
     "Desde la tená/Documento sin título",
     "navidad/index.md",
     "Desde la tená/navidad/pastor.jpg",
