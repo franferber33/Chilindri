@@ -3,6 +3,9 @@ date = '2026-03-06T14:27:00Z'
 title = 'La lluvia y sus cosas'
 tags = ["cambio climático"]
 draft = false
+
+featured_image = "lluvia.jpg"
+
 +++
 
 Estamos todavía en el invierno más lluvioso de los últimos.
