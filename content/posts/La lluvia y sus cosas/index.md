@@ -4,7 +4,7 @@ title = 'La lluvia y sus cosas'
 tags = ["cambio climático"]
 draft = false
 
-image = "lluvia.jpg"
+image = lluvia.jpg
 
 +++
 
