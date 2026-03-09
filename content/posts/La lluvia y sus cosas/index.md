@@ -1,14 +1,14 @@
 +++
-date = '2026-03-06T14:27:00Z'
+date = 2026-03-09
 title = 'La lluvia y sus cosas'
 tags = ["cambio climático"]
 description = "Preguntas sobre la sequía y las lluvias"
 draft = false
 
 [cover]
-	image = "lluvia.jpg"
+	image = 'lluvia.jpg'
 	relative = true
-author = Chilindri
+author = 'Chilindri'
 +++
 
 Estamos todavía en el invierno más lluvioso de los últimos.
