@@ -5,7 +5,8 @@ theme = 'ananke'
 
 
 
-
+[params]
+  featured_image = "/puerta_tena.jpg"
 
 
 
