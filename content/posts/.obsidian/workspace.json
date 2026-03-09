@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La lluvia y sus cosas/index.md",
+                "file": "La lluvia y sus cosas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "La lluvia y sus cosas"
             }
           }
         ]
@@ -206,10 +206,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c32f6e2f53c68e8d",
+  "active": "382990656d953948",
   "lastOpenFiles": [
     "La lluvia y sus cosas.md",
     "La lluvia y sus cosas/index.md",
+    "index.md",
     "Desde la tená/index.md",
     "Desde la tená/puerta_tena.jpg",
     "plantillas/plantilla post.md",

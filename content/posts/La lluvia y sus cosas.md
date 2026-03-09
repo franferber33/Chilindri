@@ -1,13 +1,10 @@
 +++
-date = 2026-03-09
-title = 'La lluvia y sus cosas'
-tags = ["cambio climático"]
-description = "Preguntas sobre la sequía y las lluvias"
-draft = false
-
-[cover]
-	image = 'lluvia.jpg'
-	relative = true
+date = 2026-03-09 
+title = 'La lluvia y sus cosas' 
+tags = ["cambio climático"] 
+description = "Preguntas sobre la sequía y las lluvias" 
+draft = false 
+featured_image = 'lluvia.jpg' 
 author = 'Chilindri'
 +++
 
