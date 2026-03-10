@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La lluvia y sus cosas.md",
+                "file": "Cambiemos el futuro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La lluvia y sus cosas"
+              "title": "Cambiemos el futuro"
             }
           }
         ]
@@ -206,9 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "382990656d953948",
+  "active": "c32f6e2f53c68e8d",
   "lastOpenFiles": [
     "La lluvia y sus cosas.md",
+    "Cambiemos el futuro.md",
     "La lluvia y sus cosas/index.md",
     "index.md",
     "Desde la tená/index.md",
