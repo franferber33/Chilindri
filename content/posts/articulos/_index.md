@@ -1,5 +1,5 @@
 +++
-title: "Articulos" 
-description: "Opiniones (razonadas)" 
-featured_image: "/images/prensa.jpg"
+title = "Artículos" 
+description = "Opiniones (razonadas)" 
+featured_image = "/images/prensa.jpg"
 +++
