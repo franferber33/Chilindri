@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <div class="ph3 ph5-ns">
+    <h1 class="f2 f1-m f-headline-l measure-narrow lh-title mv0">
+      {{ .Title }}
+    </h1>
+    {{ range .Pages }}
+      <article class="bt bb b--black-10 pv4">
+        <a class="link db f3 fw1 blue hover-mid-gray" href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+        <time class="f6 db mv2 gray">{{ .Date.Format "2 January 2006" }}</time>
+        {{ if .Summary }}
+          <p class="f5 f4-l lh-copy measure mt0">{{ .Summary }}</p>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+{{ end }}

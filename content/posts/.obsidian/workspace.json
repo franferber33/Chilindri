@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/Sanidad universal.md",
+                "file": "desde_la_tena/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sanidad universal"
+              "title": "_index"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "2f5be8bdcbd579de",
   "lastOpenFiles": [
-    "articulos/La lluvia y sus cosas.md",
-    "articulos/Sanidad universal.md",
     "articulos/_index.md",
+    "articulos/Sanidad universal.md",
+    "articulos/La lluvia y sus cosas.md",
     "articulos/Cambiemos el futuro.md",
     "articulos/HODIO.md",
     "articulos/Energía nuclear.md",
