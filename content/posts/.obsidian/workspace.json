@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "desde_la_tena/_index.md",
+                "file": "desde_la_tena/La vida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "La vida"
             }
           }
         ]
@@ -208,14 +208,15 @@
   },
   "active": "2f5be8bdcbd579de",
   "lastOpenFiles": [
+    "articulos/Cambiemos el futuro.md",
+    "desde_la_tena/La vida.md",
+    "desde_la_tena/_index.md",
     "articulos/_index.md",
     "articulos/Sanidad universal.md",
     "articulos/La lluvia y sus cosas.md",
-    "articulos/Cambiemos el futuro.md",
     "articulos/HODIO.md",
     "articulos/Energía nuclear.md",
     "articulos/En nuestro sistema electoral es imposible hacer fraude.md",
-    "desde_la_tena/_index.md",
     "Sanidad universal.md",
     "articulos",
     "Carpeta sin título",
