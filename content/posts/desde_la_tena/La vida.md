@@ -1,7 +1,7 @@
 +++
 date = 2026-03-12
 title = 'La vida' 
-tags = ["vida", "muerte", "familia", "amistad"] 
+tags = ["vida", "muerte"] 
 description = "A veces la vida se pone frente a ti. Reedición del texto publicado en desdelatena.es el 29 de diciembre de 2008" 
 draft = false 
 featured_image = 'lavida.jpg' 
