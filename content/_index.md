@@ -1,3 +1,3 @@
 +++
-featured_image = "/images/puerta_tena.jpg"
+featured_image = "/images/templario.jpg"
 +++
