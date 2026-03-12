@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/_index.md",
+                "file": "articulos/Sanidad universal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Sanidad universal"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "2f5be8bdcbd579de",
   "lastOpenFiles": [
-    "desde_la_tena/_index.md",
     "articulos/_index.md",
+    "desde_la_tena/_index.md",
     "articulos/Cambiemos el futuro.md",
     "Sanidad universal.md",
     "articulos/Sanidad universal.md",
