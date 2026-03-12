@@ -12,11 +12,11 @@ theme = 'ananke'
 
 [[menus.main]]
   name = "Artículos"
-  url = "/articulos/"
+  url = "/posts/articulos/"
   weight = 1
 
 [[menus.main]]
   name = "Desde la tená"
-  url = "/desde_la_tena/"
+  url = "/posts/desde_la_tena/"
   weight = 2
 
