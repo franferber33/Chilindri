@@ -1,4 +1,3 @@
-
 /* Cuerpo del texto */
 body, p, li, span, a, blockquote {
   font-family: 'JetBrains Mono', monospace !important;
@@ -6,23 +5,18 @@ body, p, li, span, a, blockquote {
   line-height: 1.75;
 }
 
-/* Títulos */
+/* Títulos generales */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Space Grotesk', sans-serif !important;
-  font-weight: 700;
+  font-weight: 700 !important;
   letter-spacing: -0.02em;
 }
 
-/* Título principal más impactante */
-h1 {
-  font-size: 2.8rem;
-  font-weight: 700;
-}
-
-.athelas {
+/* Títulos de la página inicial */
+.athelas,
+.athelas a,
+h1.athelas a {
   font-family: 'Space Grotesk', sans-serif !important;
-}
-
-.athelas, .athelas a {
-  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
 }
