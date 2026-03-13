@@ -16,7 +16,12 @@ theme = 'ananke'
   weight = 1
 
 [[menus.main]]
+  name = "Textos"
+  url = "/posts/textos/"
+  weight = 2
+
+[[menus.main]]
   name = "Desde la tená"
   url = "/posts/desde_la_tena/"
-  weight = 2
+  weight = 3
 
