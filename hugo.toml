@@ -8,7 +8,8 @@ theme = 'ananke'
 [params]
   featured_image = "/images/templario.jpg"
 
-
+[params]
+  custom_css = ["custom.css"]
 
 [[menus.main]]
   name = "Artículos"
