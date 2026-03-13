@@ -22,3 +22,7 @@ h1 {
 .athelas {
   font-family: 'Space Grotesk', sans-serif !important;
 }
+
+.athelas, .athelas a {
+  font-family: 'Space Grotesk', sans-serif !important;
+}
