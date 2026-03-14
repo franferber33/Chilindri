@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f48da791ce1e9f4",
+        "id": "d5abd6090c6ed1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2f5be8bdcbd579de",
+            "id": "57fc935a500b56f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/Sube la gasolina.md",
+                "file": "articulos/Prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sube la gasolina"
+              "title": "Prueba"
             }
           }
         ]
@@ -206,13 +206,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f5be8bdcbd579de",
+  "active": "57fc935a500b56f2",
   "lastOpenFiles": [
+    "articulos/Prueba.md",
+    "articulos/Sube la gasolina.md",
     "textos/_index.md",
     "textos",
     "Carpeta sin título",
     "articulos/La lluvia y sus cosas.md",
-    "articulos/Sube la gasolina.md",
     "articulos/HODIO.md",
     "articulos/Energía nuclear.md",
     "desde_la_tena/La vida.md",
@@ -244,7 +245,6 @@
     "navidad/pastor.jpg",
     "navidad",
     "plantillas/plantilla post con imágenes.md",
-    "plantillas/Sin título.md",
     "plantillas"
   ]
 }
