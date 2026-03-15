@@ -38,6 +38,7 @@ Te roban a manos llenas y disfrutan de putas pagadas por ti.
 Te llenan el país de gente a la que tienes que dar de comer.
 Te hacen las calles inseguras.
 Se ocupan de que te ocupen las casas.
+Te cortan la luz y te la cobran cada vez más cara.
 Confunden a tus hijos.
 Sueltan violadores.
 Te quieren encarcelar si hablas.
