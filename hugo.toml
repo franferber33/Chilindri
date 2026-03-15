@@ -1,6 +1,7 @@
 baseURL = 'https://chilindri.es/'
 languageCode = 'es-es'
 title = 'Chilindri'
+description = 'Caballero de la Real y Militar Orden de San Hermenegildo. Caballero del Pilar'
 theme = 'ananke'
 
 
