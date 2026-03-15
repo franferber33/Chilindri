@@ -35,10 +35,12 @@ Ayudan a los narcos.
 La sanidad agoniza.
 La educación ya murió.
 Te roban a manos llenas y disfrutan de putas pagadas por ti.
-Te suben la pensión 30 euros y te llenan el país de gente a la que tienes que dar de comer.
+Te llenan el país de gente a la que tienes que dar de comer.
 Te hacen las calles inseguras.
 Se ocupan de que te ocupen las casas.
-Te quitan más dinero que nunca.
+Confunden a tus hijos.
+Sueltan violadores.
+Te quieren encarcelar si hablas.
 
 Y te mienten a diario.
 
