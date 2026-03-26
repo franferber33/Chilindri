@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9622f0d079c45ff",
+        "id": "81d276f522c8ff02",
         "type": "tabs",
         "children": [
           {
-            "id": "c50826691df47e11",
+            "id": "b96e88dc28a88087",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articulos/El crimen machista que no lo era.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "El crimen machista que no lo era"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -206,10 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c50826691df47e11",
+  "active": "b96e88dc28a88087",
   "lastOpenFiles": [
-    "articulos/Hace 6 años.md",
+    "articulos/En Él confío.md",
     "articulos/El crimen machista que no lo era.md",
+    "articulos/Hace 6 años.md",
     "articulos/Prueba.md",
     "articulos/Sube la gasolina.md",
     "textos/_index.md",
@@ -239,7 +236,6 @@
     "Desde la tená/puerta_tena.jpg",
     "plantillas/plantilla post.md",
     "Desde la tená/Documento sin título",
-    "navidad/index.md",
     "Desde la tená/navidad/pastor.jpg",
     "Desde la tená/navidad",
     "Desde la tená",
