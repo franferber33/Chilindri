@@ -28,7 +28,7 @@ Confío en su Justicia y Misericordia para juzgar a los que llaman bien al mal y
 
 Confío en su Justicia y Misericordia para juzgarme a mi, humilde pecador que no está a la altura, ni hoy, ni nunca.
 
-Porque el Juicio es de Él, solamente de Él y no de mi.
+Porque el Juicio es de Él.
 
 En Él confío.
 
