@@ -12,7 +12,7 @@ author = 'Chilindri'
 
 De El patrón Bitcoin,  escrito por Saifedean Ammous.
 
-Votando a sinvergüenzas que prometen el oro y el moro llevan mis compatriotas mucho tiempo. Favoreciendo a los que son honestos sobre los costes y beneficios de su planes, nunca.
+Votando a sinvergüenzas que prometen el oro y el moro llevan mis compatriotas mucho tiempo. Favoreciendo a los que son honestos sobre los costes y beneficios de sus planes, nunca.
 
 Y culpar a los predecesores o a alguna infame conspiración, todos lo hacen, aunque es cierto que los "rojos rojos" lo saben hacer mucho mejor.
 
