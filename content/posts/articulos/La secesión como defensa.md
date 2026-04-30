@@ -1,5 +1,5 @@
 +++
-date = 2026-04-29
+date = 2026-04-30
 title = 'La secesión como defensa' 
 tags = ["España", "Castilla", "León"] 
 description = "Secesión a la puta fuerza" 
