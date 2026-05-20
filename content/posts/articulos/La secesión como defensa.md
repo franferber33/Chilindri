@@ -10,7 +10,7 @@ author = 'Chilindri'
 
 Llevamos mucho tiempo aguantando que les debemos esto, que les debemos lo otro,  que les robamos, que les  oprimimos...
 
-Mucho tiempo aguantando son mejores que nosotros. 
+Mucho tiempo aguantando que son mejores que nosotros. 
 
 Y mientras tanto, casi todo nuestro dinero va para ellos, casi todas las decisiones que se toman son para darles gusto, casi todo lo que hacemos lo imponen ellos.
 
