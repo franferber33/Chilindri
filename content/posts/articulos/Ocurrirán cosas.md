@@ -30,4 +30,4 @@ Conste que, como de constumbre, no quiero tener razón...
 
 Queda dicho, por si luego no hay tiempo o medios para decirlo.
 
-Pd: Si me equivoco, me pueden hacer burla si quieren (por agorero). Estaré tan contento y aliviado que no me tomaré mal.
+Pd: Si me equivoco, me pueden hacer burla si quieren (por agorero). Estaré tan contento y aliviado que no me lo tomaré mal.
