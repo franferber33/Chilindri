@@ -4,7 +4,7 @@ title = 'Pointless'
 tags = ["Familia"] 
 description = "Para felicitar a..." 
 draft = false
-featured_image = 'afoto.jpg' 
+featured_image = 'afoto2.jpg' 
 author = 'Chilindri'
 +++
 Como soy de natural brusco, poco dado a la alabanza, suavidad y poesía..., me permito tomar prestadas las preciosas (y venidas al pelo, literal) que ese escocés nada agraciado dice cada vez que interpreta "Pointless", para felicitar el cumpleaños a la que vive conmigo (afortunadamente).

@@ -2,6 +2,7 @@ baseURL = 'https://chilindri.es/'
 languageCode = 'es-es'
 title = 'Chilindri'
 theme = 'ananke'
+timeZone = 'Europe/Madrid'
 
 
 
