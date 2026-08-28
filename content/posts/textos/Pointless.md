@@ -1,5 +1,5 @@
 +++
-date = 2026-08-29
+date = 2026-08-28
 title = 'Pointless' 
 tags = ["Familia"] 
 description = "Para felicitar a..." 
@@ -9,7 +9,6 @@ author = 'Chilindri'
 +++
 Como soy de natural brusco, poco dado a la alabanza, suavidad y poesía..., me permito tomar prestadas las preciosas (y venidas al pelo, literal) que ese escocés nada agraciado dice cada vez que interpreta "Pointless", para felicitar el cumpleaños a la que vive conmigo (afortunadamente).
 
-"
 Le llevo café por la mañana
 Ella me trae paz interior
 La llevo a restaurantes elegantes
@@ -42,7 +41,7 @@ Te esperaré
 Tú también me esperarás
 
 Todo es sin sentido sin ti
-"
+
 ¡Felicidades!
 
 
