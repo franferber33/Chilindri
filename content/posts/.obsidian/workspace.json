@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/Pointless.md",
+                "file": "textos/Pointless.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,12 +208,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acebf0911fa11ca0",
+  "active": "382990656d953948",
   "lastOpenFiles": [
-    "articulos/Ocurrirán cosas.md",
-    "articulos/Pointless.md",
-    "Sin título.md",
     "articulos/Cambiemos el futuro.md",
+    "textos/Pointless.md",
+    "articulos/Ocurrirán cosas.md",
+    "Sin título.md",
     "articulos/_index.md",
     "articulos/Reflexiones sobre el trabajo--.md",
     "articulos/El crimen machista que no lo era.md",

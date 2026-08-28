@@ -3,7 +3,7 @@ date = 2026-08-29
 title = 'Pointless' 
 tags = ["Familia"] 
 description = "Para felicitar a..." 
-draft = true 
+draft = false
 featured_image = 'afoto.jpg' 
 author = 'Chilindri'
 +++
