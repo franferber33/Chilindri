@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "textos/Pointless.md",
+                "file": "articulos/El patio de mi recreo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointless"
+              "title": "El patio de mi recreo"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "acebf0911fa11ca0",
   "lastOpenFiles": [
-    "desde_la_tena/La vida.md",
     "textos/Pointless.md",
+    "articulos/El patio de mi recreo.md",
+    "desde_la_tena/La vida.md",
     "Sin título.md",
     "articulos/Cambiemos el futuro.md",
     "articulos/Ocurrirán cosas.md",
@@ -239,7 +240,6 @@
     "articulos",
     "desde_la_tena",
     "La lluvia y sus cosas.md",
-    "_index.md",
     "Desde la tená/puerta_tena.jpg",
     "Desde la tená/Documento sin título",
     "Desde la tená/navidad/pastor.jpg",
