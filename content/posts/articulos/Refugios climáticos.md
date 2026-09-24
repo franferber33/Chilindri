@@ -26,7 +26,7 @@ Puede que el año que viene acuda a uno de estos refugios.
 
 Eso sí, de 9:30 a 14, que ya se sabe que son las horas en las que más calor hace por estos lares.
 
-No sé sin son jetas redomados o imbéciles profundos.
+No sé si son jetas redomados o imbéciles profundos.
 
 O ambas cosas.
 
