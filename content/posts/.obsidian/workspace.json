@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/Refugios climáticos.md",
+                "file": "articulos/Accidente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refugios climáticos"
+              "title": "Accidente"
             }
           }
         ]
@@ -210,16 +210,18 @@
   },
   "active": "acebf0911fa11ca0",
   "lastOpenFiles": [
+    "articulos/Plantilla.md",
+    "articulos/Accidente.md",
     "articulos/El patio de mi recreo.md",
+    "articulos/El crimen machista que no lo era.md",
+    "articulos/Cambiemos el futuro.md",
     "articulos/Refugios climáticos.md",
     "textos/Pointless.md",
     "desde_la_tena/La vida.md",
     "Sin título.md",
-    "articulos/Cambiemos el futuro.md",
     "articulos/Ocurrirán cosas.md",
     "articulos/_index.md",
     "articulos/Reflexiones sobre el trabajo--.md",
-    "articulos/El crimen machista que no lo era.md",
     "articulos/En Él confío.md",
     "articulos/En nuestro sistema electoral es imposible hacer fraude--.md",
     "articulos/Energía nuclear--.md",
@@ -236,8 +238,6 @@
     "textos/_index.md",
     "textos",
     "Carpeta sin título",
-    "desde_la_tena/_index.md",
-    "Sanidad universal.md",
     "articulos",
     "desde_la_tena",
     "Desde la tená/puerta_tena.jpg",
