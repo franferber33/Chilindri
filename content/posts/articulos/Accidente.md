@@ -3,7 +3,7 @@ date = 2026-10-28
 title = 'Accidente'  
 tags = ["Política","España"]  
 description = "Líbranos Señor"  
-draft = true 
+draft = false
 featured_image = 'tragedia.png'  
 author = 'Chilindri'  
 +++

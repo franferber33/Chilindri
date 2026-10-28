@@ -1,5 +1,5 @@
 +++  
-date = 2026-xx-xx  
+date = 2026-01-01
 title = 'xx'  
 tags = ["xx"]  
 description = "xx"  
