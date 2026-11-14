@@ -3,7 +3,7 @@ date = 2026-01-01
 title = 'Primer día de campaña'  
 tags = ["Política"]  
 description = "Ecos de Wild"  
-draft = true 
+draft = false
 featured_image = 'entrevista.jpg'  
 author = 'Chilindri'  
 +++
