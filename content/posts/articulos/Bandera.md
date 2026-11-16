@@ -3,7 +3,7 @@ date = 2026-11-16
 title = 'Bandera'  
 tags = ["Política"]  
 description = "Tercer día de campaña"  
-draft = true 
+draft = false
 featured_image = "bandera.png"  
 author = 'Chilindri'  
 +++
