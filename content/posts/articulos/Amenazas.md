@@ -3,7 +3,7 @@ date = 2026-11-17
 title = 'Amenazas'  
 tags = ["Política"]  
 description = "Cuarto día de campaña"  
-draft = true 
+draft = false
 featured_image = 'amenaza.png'  
 author = 'Chilindri'  
 +++
