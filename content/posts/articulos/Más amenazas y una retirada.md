@@ -14,9 +14,9 @@ Con esta frase se profirió otra amenaza, que es lo que hacen los izquierdosos c
 
 La región más podrida de este país que nos va quedando, esa en la que sus "mejores chicos" se dedicaban a asesinar a otros a sangre fría con las peregrinas excusas de que son una raza superior e imponer una revolución comunista (válgame las excusitas), es la que nos deleitó ayer con sus amenazas más rastreras (como tantas veces en los últimos 50 años).
 
-Esta vez le ha tocado a un chaval joven, pero valiente. Para sorpresa de todos, ha sido defendido (y bien defendido) por su jefe, que ha dejado atrás (obligado te veas) esa tibieza, cobardía extrema diría yo, que exhibía el partido azul.
+Esta vez le ha tocado a un chaval joven, pero valiente. Para sorpresa de todos, ha sido defendido (y bien defendido) por su jefe, que ha dejado atrás esa tibieza, cobardía extrema diría yo, que exhibía el partido azul.
 
-Bien está que haya desterrado (de momento) su asqueroso cordón sanitario (compartido con todos los rojos) contra los de verde. 
+Bien está que haya desterrado (obligado te veas)  su asqueroso cordón sanitario, compartido hasta hace poco con todos los rojos, contra los de verde. 
 
 El chico recuerda a otro joven del pp, hoy verde, en sus años mozos.
 
