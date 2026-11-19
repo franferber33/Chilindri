@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articulos/Más amenazas y una retirada.md",
+                "file": "articulos/Entrevistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Más amenazas y una retirada"
+              "title": "Entrevistas"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "acebf0911fa11ca0",
   "lastOpenFiles": [
-    "articulos/Amenazas.md",
     "articulos/Más amenazas y una retirada.md",
+    "articulos/Entrevistas.md",
+    "articulos/Amenazas.md",
     "articulos/Plantilla.md",
     "articulos/Bandera.md",
     "articulos/¿El anarcocapitalismo en la campaña?.md",
@@ -235,7 +236,6 @@
     "articulos/La fiesta de la democracia.md",
     "articulos/La lluvia y sus cosas.md",
     "articulos/La secesión como defensa.md",
-    "articulos/Sube la gasolina.md",
     "textos",
     "Carpeta sin título",
     "articulos",
