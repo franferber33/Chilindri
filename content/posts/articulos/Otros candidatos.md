@@ -1,5 +1,5 @@
 +++  
-date = 2026-11-26
+date = 2026-11-25
 title = 'Otros candidatos'  
 tags = ["Política"]  
 description = "Analfabetos al poder"  
