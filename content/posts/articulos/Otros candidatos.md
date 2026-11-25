@@ -26,6 +26,6 @@ Por cierto, escalofríos debe dar a cualquier persona de bien el nuevo permiso a
 
 Escalofríos.
 
-Si es un familiar de primer grado, como también han aumentado a 10 días hábiles el permiso por fallecimiento, si lo llevas al matadero, ¿te dan 13 días en total?
+En el caso de un familiar de primer grado, como también han aumentado a 10 días hábiles el permiso por fallecimiento, si lo llevas al matadero, ¿te dan 13 días en total?
 
 Escalofríos.
