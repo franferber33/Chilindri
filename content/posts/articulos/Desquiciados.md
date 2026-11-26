@@ -13,7 +13,7 @@ Una de las cosas que más duele de las campañas es ver a las charos en un míti
 Y no lo es porque esa gente no tenga cabida en este mundo. Al contrario. Esa gente, pobrecita, necesita ayuda. 
 Su cabeza no rige bien, es evidente. Vive en un mundo ficticio, un mundo que no existe y que no ha existido, y pretende pasar por alguien que sabe lo que dice. Aunque no olvido que son cómplices, muchos de ellos interesados, de la ruina que nos viene, monetaria y moral. Como cómplices son todos los que apoyan, difunden y votan ideas desquiciadas.
 
-Es inconcebible es que tengamos que compartir las decisiones importantes de la vida con ellos. Lo que es inconcebible es que tengamos que asumir que su capacidad de decidir en nuestra vida esté al mismo nivel que la nuestra propia.
+Es inconcebible que tengamos que compartir las decisiones importantes de la vida con ellos. Es inconcebible es que tengamos que asumir que su capacidad de decidir en nuestra vida esté al mismo nivel que la nuestra propia.
 
 No pretendo que se excluya a nadie de la vida civil. Lo que me gustaría es que se excluya de la toma de decisiones de mi vida.
 
