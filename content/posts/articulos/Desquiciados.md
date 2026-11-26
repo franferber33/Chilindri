@@ -15,7 +15,7 @@ Su cabeza no rige bien, es evidente. Vive en un mundo ficticio, un mundo que no 
 
 Es inconcebible que tengamos que compartir las decisiones importantes de la vida con ellos. Es inconcebible es que tengamos que asumir que su capacidad de decidir en nuestra vida esté al mismo nivel que la nuestra propia.
 
-No pretendo que se excluya a nadie de la vida civil. Lo que me gustaría es que se excluya de la toma de decisiones de mi vida.
+No pretendo que se excluya a nadie de la vida civil. Lo que me gustaría es que se les excluya de la toma de decisiones de mi vida.
 
 Lo que hacemos a diario tiene consecuencias. Y hay que asumirlas. Que dejemos que esos (y otros peores) decidan por nosotros tiene consecuencias.
 
